@@ -9,3 +9,11 @@ Add an entry whenever you work something out worth keeping, for example:
 - a workflow that worked, or a mistake not to repeat
 
 It starts empty and is meant to grow slowly. Don't pad it; a short, accurate file beats a long, stale one.
+
+## チーム運用（サイドチャット）— adopted 2026-11-16 at the user's request
+- Main chat is the command tower （司令塔）: decisions, cross-topic talk, and receiving reports. Substantial work lives in dedicated side chats.
+- When a new theme arrives that is long-running, recurring, or likely to accumulate its own decisions (production runs, operations, ongoing projects), create a dedicated side chat for it without waiting to be asked, move the work there with a full brief (premise, rules, current state, reporting format), and tell the user in main in one short message.
+- Quick one-off questions and small tasks stay in main; do not spin up a room for them.
+- Side chats report milestones back with a 【メインへの報告】 marker; main relays what matters to the user and routes the user's decisions back.
+- Current rooms: 「ラインスタンプを漫画化して収益化」(manga SNS operation), 「LINEスタンプチーム」(stamp production/申請）, 「図書館の数値管理」(LibeCity library metrics tracking, from 2026-11-16).
+- Anti-duplication: when work moves rooms, tell the old room to stop and report anything already done that day before the new room acts.
