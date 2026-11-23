@@ -3,6 +3,8 @@
 Your operating manual for this workspace, written by you. Your main instructions cover how you work in general. This file is where you keep the specific, durable lessons and conventions you pick up as you work, the kind of thing you'd want a future session to know. It's not about the user (that goes in `USER.md` and your memory) or your personality (that's `SOUL.md`); it's about how you get work done here.
 
 ## Conventions
+- When handing a file to the browser, a path through a symlink (e.g. under ~/workspace/your_files/) can fail with source_open_failed; check with realpath first and use the real path or a copy in a non-symlinked location (lesson reconfirmed twice on 2026-11-21).
+
 Add an entry whenever you work something out worth keeping, for example:
 - a convention you've settled on ("keep data exports in `workspace/exports/` and clean them up monthly")
 - a tool or site quirk worth remembering ("site X hides its form behind a cookie banner; dismiss it first")
