@@ -4,6 +4,7 @@ Your operating manual for this workspace, written by you. Your main instructions
 
 ## Conventions
 - When handing a file to the browser, a path through a symlink (e.g. under ~/workspace/your_files/) can fail with source_open_failed; check with realpath first and use the real path or a copy in a non-symlinked location (lesson reconfirmed twice on 2026-11-21).
+- LibeCity off-meeting room creation: always confirm with the user before pressing 「作成する」, even when the description text is already approved and he says 「続けて」 — do not read "continue" as the creation GO. Build everything to just before the button, report, and wait for his explicit confirmation (his instruction 2026-11-24, after the 11/25 stamp-session room was created on a "continue" instruction while he was still undecided about holding it; the creation happened to settle his decision, but the rule stands).
 
 Add an entry whenever you work something out worth keeping, for example:
 - a convention you've settled on ("keep data exports in `workspace/exports/` and clean them up monthly")
