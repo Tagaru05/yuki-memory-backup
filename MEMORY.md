@@ -45,7 +45,7 @@
   - ウリ坊のスマホあるある — https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49283939
   - ウリ坊の梅雨・雨の日 — https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49284394
   - ウリ坊の温泉・お風呂 — https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49328674 （登録完了・本人の内容確認済み、審査リクエストはログイン切れで未送信）
-  - ウリ坊のバドミントンスタンプ — https://creator.line.me/my/0Kbk4F0RwKStQnZr/sticker/49477718 （2026-11-25作成、24個・190円・自動販売開始・AI使用申告済み、カテゴリのみ未設定、審査リクエスト直前で本人の最終確認待ち。コピーライトは登録名に合わせ©atagaru）
+  - ウリ坊のバドミントンスタンプ — https://creator.line.me/my/0Kbk4F0RwKStQnZr/sticker/49477718 （2026-11-25に本人が審査リクエスト送信、審査待ち。自動販売開始のため承認後の販売開始操作は不要）
   - ゆきモチーフ 24個（未申請）— files: ~/workspace/your_files/yuki-line-stamps/
 
 - When the user says 「LINEスタンプを作って」, run the full standard flow end-to-end without asking step by step (approved 2026-11-06); the full procedure lives in the line_stamp_fastest skill.
