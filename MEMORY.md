@@ -21,7 +21,7 @@
   - をがつくシリーズ https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49172245 （説明文から必須フレーズ「これがあれば勝てる」が欠落；修正は取消・再申請が必要で、本人の判断待ち 2026-11-15） ／ んがつくシリーズ https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49173211 ／ いがつくシリーズ https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49140243 ／ うがつくシリーズ https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49140358 ／ えがつくシリーズ https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49140464 ／ おがつくシリーズ https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49140570
   - ウリ坊の温泉・お風呂 — https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49328674 （2026-11-26に審査リクエスト送信済み、審査待ち。自動販売開始）
   - ウリ坊のバドミントンスタンプ — https://creator.line.me/my/0Kbk4F0RwKStQnZr/sticker/49477718 （2026-11-25に本人が審査リクエスト送信、審査待ち。自動販売開始のため承認後の販売開始操作は不要）
-  - 九尾の狐の毎日あいさつ — https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49540331 （2026-11-27に申請入力完了、審査リクエスト直前で最終確認待ち。190円・自動販売開始・カテゴリのみ未設定）
+  - 九尾の狐の毎日あいさつ — https://creator.line.me/my/XS79XwMiazPe6TN7/sticker/49540331 （2026-11-27に審査リクエスト送信済み、審査待ち。190円・自動販売開始のため承認後の販売開始操作は不要。カテゴリは未設定のまま送信）
   - ゆきモチーフ 24個（未申請）— files: ~/workspace/your_files/yuki-line-stamps/
 
 - 「LINEスタンプを作って」では標準フローを最後まで進める（approved 2026-11-06; 手順は line_stamp_fastest skill）。Creators Marketのログインは本人が行い、パスワードは聞かない。「審査をリクエスト」直前で必ず止め、タイトル・価格・説明文・タグを見せて本人のOK後に送信する。
